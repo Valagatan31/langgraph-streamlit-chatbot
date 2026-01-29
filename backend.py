@@ -8,7 +8,7 @@ import sqlite3
 
 llm = ChatGoogleGenerativeAI(
     model='models/gemini-flash-latest',
-    google_api_key='AIzaSyCKJR9lB1W3pNp_jB_90psmJemylQzSuPo',
+    google_api_key='abc',
     temperature=0.7
 )
 
