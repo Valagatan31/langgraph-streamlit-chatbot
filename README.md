@@ -21,8 +21,6 @@ It supports conversation memory using **SQLite checkpointing**, allowing users t
 
 ---
 
----
-
 ##  Setup Instructions
 
 ###  Clone the repository
